@@ -1,2 +1,2 @@
 # ML PROJECTS
-Basic Machine Learning Models
+Basic Machine Learning Models & Projects
